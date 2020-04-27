@@ -1,6 +1,6 @@
-###Spring Project
+### Spring Project
 
-####Uso de Inyeccion de Dependencias configurados desde archivo xml.
+#### Uso de Inyeccion de Dependencias configurados desde archivo xml.
 
 Se generan ejemplos de Inyeccion deDependencias con las siguientes casos:
 - Application-Context
@@ -9,5 +9,5 @@ Se generan ejemplos de Inyeccion deDependencias con las siguientes casos:
 - Inheritance
 - Setter-Inyection
 
-Forma de ejecucion.
+##### Forma de ejecucion.
 Cada package contiene un ejemplo de un caso, y se ejecuta la clase que termina en **Application**.
